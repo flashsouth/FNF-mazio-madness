@@ -1,9 +1,14 @@
 [
   {
-       "Name":" ",
-       "Description":"  ",
-       "IconUrl":" ",
-       "GameUrl":" "
-   }
-   
+    "Name": "GAME NAME",
+    "Description": "SAID DISCRIPTION",
+    "IconUrl": "",
+    "GameUrl": ""
+  },
+  {
+    "Name": "GAME NAME 2 ",
+    "Description": "SAID DISCRIPTION 2",
+    "IconUrl": "",
+    "GameUrl": ""
+  }
 ]

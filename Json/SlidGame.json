@@ -1,0 +1,17 @@
+{
+  "Virtion": 1,
+  "Data": [
+    {
+      "Name": "Mommy FNF",
+      "IconUrl": "https://raw.githubusercontent.com/flashsouth/FNF-mazio-madness/main/Json/Ads/Mommyads.jpg",
+      "GameUrl": "https://raw.githubusercontent.com/flashsouth/FNF-mazio-madness/main/Json/Ads/Mommyads.jpg",
+      "Stars": 4
+    },
+    {
+      "Name": "Mommy FNF",
+      "IconUrl": "https://raw.githubusercontent.com/flashsouth/FNF-mazio-madness/main/Json/Ads/Mommyads.jpg",
+      "GameUrl": "https://raw.githubusercontent.com/flashsouth/FNF-mazio-madness/main/Json/Ads/Mommyads.jpg",
+      "Stars": 1
+    }
+  ]
+}
