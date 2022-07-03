@@ -1,5 +1,5 @@
 {
-    "Virtion": "v1.0.0",
+    "Virtion": "v1.0.1",
     "OfferWellappKey": "",
     "EnableOfferWell": 1,
     "EnableAdsTestMode": 0,
@@ -7,19 +7,19 @@
     "bannerAdUnit": "",
     "interstitialAdUnit": "",
     "rewardedVideoAdUnit": "",
-    "EnableOnerAds": 1,
-    "AdsUrl": "",
-    "ImageUrl": "h",
-    "Description": "",
-    "Title": "",
+    "EnableOnerAds": 0,
+    "AdsUrl": "https://appgallery.huawei.com/app/C105039399",
+    "ImageUrl": "https://raw.githubusercontent.com/FBGDFB/huawei/main/CouplesDressUp/SortCandyBobbles.jpg",
+    "Description": "DESS",
+    "Title": "TITLE",
     "ImageADS": {
         "instanceID": 0
     },
-    "EnableOnerNative": 1,
-    "NativeAdsUrl": "",
-    "NativeImageUrl": "",
-    "NativeDescription": "",
-    "NativeTitle": "",
+    "EnableOnerNative": 0,
+    "NativeAdsUrl": "https://appgallery.huawei.com/app/C105039399",
+    "NativeImageUrl": "https://raw.githubusercontent.com/saiddias068/FNF-Json/main/FNF%20Minee%20Json/ADS/Mommyads.jpg",
+    "NativeDescription": "SSSSSSSSSSSSSSSSSS",
+    "NativeTitle": "QQQQQQQQQQQQQQQQQQQQQQQQ",
     "NativeImageADS": {
         "instanceID": 0
     }
